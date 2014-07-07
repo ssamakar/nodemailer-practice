@@ -1,0 +1,12 @@
+{
+  "name": "nodemailer-practice",
+  "description": "",
+  "main": "server.js",
+  "version": "0.0.1",
+  "dependencies": {
+    "nodemailer": "^0.7.0",
+    "node-static": "^0.7.3",
+    "express": "^4.5.0",
+    "body-parser": "^1.4.3"
+  }
+}
